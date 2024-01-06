@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "A-Thinkpad-USB-keyboard-footprints")(type "KiCad")(uri "C:/Users/James/Documents/GitHub/A Thinkpad USB keyboard/Libraries/A-Thinkpad-USB-keyboard-footprints.pretty")(options "")(descr ""))
+)

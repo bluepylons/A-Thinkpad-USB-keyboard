@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.15239999999999998
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -126,12 +126,12 @@
         "max_error": 0.005,
         "min_clearance": 0.15239999999999998,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.0,
-        "min_hole_clearance": 0.0,
-        "min_hole_to_hole": 0.25,
+        "min_copper_edge_clearance": 0.3,
+        "min_hole_clearance": 0.254,
+        "min_hole_to_hole": 0.254,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.7999999999999999,
         "min_text_thickness": 0.08,
@@ -517,6 +517,18 @@
     [
       "49b03f2e-4a93-4c4e-8d95-13775b5bcebc",
       ""
+    ],
+    [
+      "7f3b948a-5f83-4743-924a-51697f46703a",
+      "BSS138 Level Shifter"
+    ],
+    [
+      "0916adef-77df-4219-aa04-a54b902858d4",
+      "BSS138 Level Shifter1"
+    ],
+    [
+      "9ebd5fb0-0af1-41fa-b5df-e3b171ce4913",
+      "BSS138 Level Shifter2"
     ]
   ],
   "text_variables": {}

@@ -1004,10 +1004,10 @@
       (net 4 "GNDPWR") (pinfunction "Shield") (pintype "passive") (tstamp 0a648b37-e2b7-4ad7-bccc-13320de1b42e))
     (pad "5" thru_hole circle (at 10.07 2.71 180) (size 3 3) (drill 2.3) (layers "*.Cu" "*.Mask")
       (net 4 "GNDPWR") (pinfunction "Shield") (pintype "passive") (tstamp 19405189-db94-457c-85db-dea70bb5e057))
-    (model "${KISYS3DMOD}/Connector_USB.3dshapes/USB_A_Molex_67643_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/James/Documents/Connector 3D models/676432911.stp"
+      (offset (xyz 3.5 2.3 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -1297,10 +1297,10 @@
       (net 4 "GNDPWR") (pinfunction "SHIELD") (pintype "passive") (tstamp 706d84d2-8bd9-4d6e-a879-8af94ef3dbaa))
     (pad "S1" thru_hole oval (at 4.32 1.05 180) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask")
       (net 4 "GNDPWR") (pinfunction "SHIELD") (pintype "passive") (tstamp dfd87d2a-e7c7-461d-a1dc-c8fb851eccc6))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/James/Documents/Connector 3D models/TYPE-C-31-M-12.step"
+      (offset (xyz -4.45 -3.65 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -3557,10 +3557,10 @@
       (net 4 "GNDPWR") (pinfunction "Shield") (pintype "passive") (tstamp 9251a650-e252-41da-abb0-eae76c662e27))
     (pad "5" thru_hole circle (at 10.07 2.71 180) (size 3 3) (drill 2.3) (layers "*.Cu" "*.Mask")
       (net 4 "GNDPWR") (pinfunction "Shield") (pintype "passive") (tstamp 7cecc3f7-0e9f-4fc3-982f-e6892e699f6e))
-    (model "${KISYS3DMOD}/Connector_USB.3dshapes/USB_A_Molex_67643_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/James/Documents/Connector 3D models/676432911.stp"
+      (offset (xyz 3.5 2.3 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -3989,10 +3989,10 @@
       (net 4 "GNDPWR") (pinfunction "SHIELD") (pintype "passive") (tstamp 5f49cf91-492f-4426-a9f0-2945274b5b72))
     (pad "S1" thru_hole oval (at 4.32 1.05 180) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask")
       (net 4 "GNDPWR") (pinfunction "SHIELD") (pintype "passive") (tstamp 1adabe16-f7ad-4ac2-a09b-d0bbee3d6b13))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/James/Documents/Connector 3D models/TYPE-C-31-M-12.step"
+      (offset (xyz -4.45 -3.65 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -4513,7 +4513,7 @@
       (net 37 "SWD") (pinfunction "Pin_4") (pintype "passive") (tstamp 4b8a5c8d-bd04-429a-95e2-7a19eb55fde0))
     (pad "5" thru_hole oval (at 0 10.16 180) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 38 "SWCLK") (pinfunction "Pin_5") (pintype "passive") (tstamp e45317ff-add0-4195-b2a5-dd6bb31f659f))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x05_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x05_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4989,6 +4989,11 @@
       (net 1 "GND") (pinfunction "MountPin") (pintype "passive") (thermal_bridge_angle 45) (tstamp 915b8ea6-fbc8-489a-bc42-cc93d70d7489))
     (pad "MP" smd roundrect (at 2.8 5.95) (size 2.4 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1538461538)
       (net 1 "GND") (pinfunction "MountPin") (pintype "passive") (thermal_bridge_angle 45) (tstamp 78c18f82-c520-41ba-8b5c-2904cbeb5fe9))
+    (model "C:/Users/James/Documents/Connector 3D models/543630489.stp"
+      (offset (xyz 0 0 0.75))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 90))
+    )
   )
 
   (footprint "A-Thinkpad-USB-keyboard-footprints:JLCPCB-tooling-hole" (layer "F.Cu")

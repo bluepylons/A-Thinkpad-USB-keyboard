@@ -1,5 +1,7 @@
 # Work in Progress
 
+## Note January 21, 2025: the downstream USB-C port likely violates USB-C spec since it provides 5V all the time, instead of only when CC resistors are detected.
+
 # About
 
 This is a project attempting to make a USB keyboard/Trackpoint controller and enclosure for the non-chiclet Thinkpad keyboard (from the 10/20 generation, such as the T410, W520, etc.). These were, in my opinion, the best Thinkpad keyboards ever made.
